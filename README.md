@@ -2,7 +2,7 @@
 just an example
 
 
-This firewall may be not secure for your network, but for me its just ok :) use it as you wish
+This iptables rules may be not secure for your network, but for me is just ok :) use it if you wish
 
     touch /etc/fwrules.sh
     chmod +x /etc/fwrules.sh
